@@ -1,0 +1,12 @@
+{
+  "name": "assignment1",
+  "displayName": "assignment1",
+  "expo": {
+    "name": "assignment1",
+    "slug": "assignment1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
